@@ -1,2 +1,6 @@
 1st write
+<<<<<<< HEAD
 3rd write
+=======
+2nd write
+>>>>>>> car
